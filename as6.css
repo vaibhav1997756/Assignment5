@@ -1,0 +1,48 @@
+#first {
+    background-image: url(https://thumbs.dreamstime.com/z/concept-meeting-education-learning-presentation-technology-background-d-render-127353414.jpg);
+}
+
+#main {
+    height: 70px;
+}
+
+.head {
+    color: wheat;
+    font-family: cursive;
+    background-color: rgba(84, 141, 173, 0.575);
+    width: 40%;
+    float: left;
+    text-align: left;
+    height: 70px;
+}
+
+.info {
+    text-align: center;
+    color: lightgoldenrodyellow;
+    width: 60%;
+    float: right;
+    line-height: 70px;
+    height: 70px;
+    background-color: rgba(84, 141, 173, 0.575);
+}
+
+#a {
+    background-color: rgb(78, 138, 158);
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.class {
+    text-align: center;
+}
+
+#b {
+    background-color: floralwhite;
+    font-family: cursive;
+}
+
+.last {
+    float: left;
+    color: rgba(255, 255, 255, 0.904);
+}
